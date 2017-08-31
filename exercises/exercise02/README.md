@@ -42,6 +42,6 @@ Let us use the Cloud Foundry command line interface to create and access Trial a
 
 The prompt to enter email and password appears. Enter the details as provided during registration. The SAP Cloud Platform authenticates your credentials and displays the organization and space for your user account.
 <br><br>
-![CF Login](/img/cf_login.png?raw=true)
+![CF Login](/img/cf_login_console.png?raw=true)
 <br><br>
 2.Enter the command **cf target**. This command displays the default organization and space for your account. In case of multiple organizations, it allows you to set a default organization and space within the organization.
