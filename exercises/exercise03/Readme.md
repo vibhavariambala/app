@@ -64,7 +64,7 @@ The application appears in a new tab.
 ![App](/img/app.png?raw=true)
 <br><br>
 
-Let us use the Cloud Foundry command line interface to deploy and launch the application
+Let us use the Cloud Foundry command line interface to deploy and launch the application.
 
 1.Navigate to the project folder on your local system.
 
