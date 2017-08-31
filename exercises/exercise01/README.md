@@ -6,4 +6,10 @@ This exercise will help you to register and activate a trial account on SAP Clou
 ![Trial Login](/img/cp_main_pg.png?raw=true)
 <br><br>
 2. Choose **Try it for Free**. The Registration page appears.
+<br><br>
+![Registration](/img/registration.png?raw=true)
+<br><br>
 3. After providing the registration details and submitting the online form, you will receive a link in your personal email to activate your account.
+<br><br>
+![Activation Email](/img/Activation_email.png?raw=true)
+<br><br>
