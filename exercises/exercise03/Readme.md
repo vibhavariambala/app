@@ -56,7 +56,9 @@ The application is uploaded to the SAP Cloud Platform. The application is automa
 
 ---
 :dart: **Result:**
+
 The application appears in a new tab.
+
 ---
 <br><br>
 ![App](/img/app.png?raw=true)
@@ -82,7 +84,7 @@ Let us use the Cloud Foundry command line interface to deploy and launch the app
 
 6.Save the changes.
 
-7.Navigate to the project folder using the command **cd <path of the project folder>**.
+7.Navigate to the project folder using the command **cd {path of the project folder}**.
 
 8.Enter the command **cf push**. The application is uploaded and the resources consumed by the application are displayed.
 <br><br>
