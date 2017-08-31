@@ -29,3 +29,19 @@ Let us use the SAP Cloud Platform cockpit
 <br><br>
 ![Go to Space](/img/post_acc_creation.png?raw=true)
 <br><br>
+Let us use the Cloud Foundry command line interface to create and access Trial account
+
+1.Open the command line interface window. Provide command to set the API endpoint to specific Cloud Foundry region and log on to the SAP Cloud Platform. Enter the following Cloud Foundry commands one after the other:
+ 
++ **cf api api.cf.**<host information>
+<br><br>
+![API Endpoint](/img/api_endpoint.png?raw=true)
+<br><br>
+
++ **cf login**
+
+The prompt to enter email and password appears. Enter the details as provided during registration. The SAP Cloud Platform authenticates your credentials and displays the organization and space for your user account.
+<br><br>
+![CF Login](/img/cf_login.png?raw=true)
+<br><br>
+2.Enter the command **cf target**. This command displays the default organization and space for your account. In case of multiple organizations, it allows you to set a default organization and space within the organization.
