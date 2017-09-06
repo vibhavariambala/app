@@ -4,9 +4,12 @@ Let us use the cockpit option for checking resource consumption.
 <br><br>
 ![Logs](/img/logs_nav.png?raw=true)
 <br><br>
+
 ---
+
 :dart: Result:
 The logs for the application appears. For analysis of logs, you can choose **Open Log Analysis**. You can also download the logs to your local system.
+
 ---
 <br><br>
 ![Cockpit_Logs](/img/logs.png?raw=true)
