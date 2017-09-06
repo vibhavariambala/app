@@ -3,7 +3,7 @@ Let us use the SAP Cloud Platform cockpit
 
 1.Log on to the SAP Cloud Platform account from the [SAP Cloud Platform](http://cloudplatform.sap.com) web page.
 <br><br>
-![Login](/img/login.png?raw=true)
+![Login](/img/login.png?raw=true =250x250)
 <br><br>
 
 2.In the breadcrumb navigation bar, choose **Home**.
