@@ -1,6 +1,10 @@
 # Exercise 06: Check Resource Consumption
-Let us use the cockpit option for checking resource consumption.
-1.Navigate to Applications.
+## Objective
+In this exercise, you will try out options to check resources consumed by the application.
+
+---
+__Let us use the cockpit option for checking resource consumption.__
+1. Navigate to Applications.
 <br><br>
 ![App List](/img/App_list.png?raw=true)
 <br><br>
@@ -12,7 +16,7 @@ Let us use the cockpit option for checking resource consumption.
 <br><br>
 
 
-Let us use the Cloud Foundry command line interface to check resource consumption.
+__Let us use the Cloud Foundry command line interface to check resource consumption.__
 
 1.Enter the command **cf app {app_name}**. 
 <br><br>
