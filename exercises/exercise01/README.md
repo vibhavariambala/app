@@ -1,6 +1,9 @@
 # Exercise 01: Register for Trial Account on SAP Cloud Platform Cloud Foundry
-This exercise will help you to register and activate a trial account on SAP Cloud Platform.
 
+## Objective
+In this exercise you'll learn how you can create your own free developer account on the SAP Cloud Platform. 
+
+------------
 1. Open a Web browser and in the address bar enter [cloudplatform.sap.com](http://cloudplatform.sap.com). The SAP Cloud Platform Web page appears.
 <br><br>
 ![Trial Login](/img/cp_main_pg.png?raw=true)
