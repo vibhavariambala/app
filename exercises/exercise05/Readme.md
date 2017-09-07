@@ -1,5 +1,12 @@
 # Exercise 05: Scaling an Application
-Let us use the cockpit option for horizontal scaling (increasing or decreasing the number of application instances)
+## Objective
+
+In this exercise, you will understand how to scale an application horizontally and vertically. Horizontal scaling implies increasing or decreasing the number of application instances. Vertical scaling implies changing the disk space limit or memory limit applied to all instances of the application.
+
+-------
+
+__Let us use the cockpit option for horizontal scaling (increasing or decreasing the number of application instances)__
+
 1.Navigate to Applications.
 <br><br>
 ![App List](/img/App_list.png?raw=true)
@@ -16,7 +23,7 @@ Let us use the cockpit option for horizontal scaling (increasing or decreasing t
 ![Scale Down](/img/scale_down.png?raw=true)
 <br><br>
 
-Let us use the cockpit option for vertical scaling (changing the disk space limit or memory limit applied to all instances of the application).
+__Let us use the cockpit option for vertical scaling (changing the disk space limit or memory limit applied to all instances of the application).__
 
 1.In the **Application Overview** page, choose the **Change Quota** button to change the memory or disk quota.
 <br><br>
