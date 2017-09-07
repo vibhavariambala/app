@@ -45,8 +45,7 @@ __Let us use the SAP Cloud Platform cockpit__
  <br><br>
  ![DeployApp](/img/dep_app.png?raw=true)
 <br><br>
-**Result:**<br><br>
-
+**Result:**<br>
 The application is uploaded to the SAP Cloud Platform. The application is automatically started and the resources consumed by the application are displayed.
 <br><br>
 
