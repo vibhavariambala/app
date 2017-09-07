@@ -1,4 +1,9 @@
 # Exercise 02: Create And Access Trial Account
+## Objective
+In this exercise you'll create a space. You will also get familiar with specific terms such as regions, Global accounts, subaccounts, organization, and space. 
+
+-------
+
 __Let us use the SAP Cloud Platform cockpit__
 
 1.Log on to the SAP Cloud Platform account from the [SAP Cloud Platform](http://cloudplatform.sap.com) web page.
@@ -29,7 +34,7 @@ __Let us use the SAP Cloud Platform cockpit__
 <br><br>
 ![Go to Space](/img/post_acc_creation.png?raw=true)
 <br><br>
-Let us use the Cloud Foundry command line interface to create and access Trial account
+__Let us use the Cloud Foundry command line interface to create and access Trial account__
 
 1.Open the command line interface window. Provide command to set the API endpoint to specific Cloud Foundry region and log on to the SAP Cloud Platform. Enter the following Cloud Foundry commands one after the other:
  
