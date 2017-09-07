@@ -43,7 +43,7 @@ Let us use the Cloud Foundry command line interface to horizontally scale the ap
 <br><br>
 ![Console Client Scale Up](/img/scale_up.png?raw=true)
 <br><br>
-Let us use the Cloud Foundry command line interface to vertically scale the application.
+__Let us use the Cloud Foundry command line interface to vertically scale the application.__
 
 1.Enter the command **cf scale {app_name} -m or -k {number} {metric ”M” or “G”}**. The memory or the disk quota for each application instance is changed accordingly. 
 <br><br>
