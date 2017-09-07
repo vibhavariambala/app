@@ -35,7 +35,7 @@ __Let us use the cockpit option for vertical scaling (changing the disk space li
 ![Restart](/img/restart_app.png?raw=true)
 <br><br>
 
-Let us use the Cloud Foundry command line interface to horizontally scale the application.
+__Let us use the Cloud Foundry command line interface to horizontally scale the application.__
 
 1.Enter the command **cf scale {app_name} -i {no_of_instance}**. The application instances appear as per the specified number. 
 
