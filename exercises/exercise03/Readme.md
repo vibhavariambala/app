@@ -1,5 +1,11 @@
 # Exercise 03: Deploy and Launch Node.js Application
-Let us use the SAP Cloud Platform cockpit
+## Objective
+
+In this exercise, you will get familiar with the application manifest file and its content. You will modify the content of this file and deploy the application from the cockpit. You also have the option to deploy the application from the command line interface.
+
+-----
+
+__Let us use the SAP Cloud Platform cockpit__
 
 1.Clone the content of the git repository available at the [GitHub link](https://github.infra.hana.ondemand.com/TechEd2017/hello-nodejs) using the command
 **git clone https://github.infra.hana.ondemand.com/TechEd2017/hello-nodejs**.
@@ -39,13 +45,10 @@ Let us use the SAP Cloud Platform cockpit
  <br><br>
  ![DeployApp](/img/dep_app.png?raw=true)
 <br><br>
- 
----
-:dart: **Result:**
+**Result:**<br><br>
 
 The application is uploaded to the SAP Cloud Platform. The application is automatically started and the resources consumed by the application are displayed.
-
----
+<br><br>
 
 10.Choose the name of the application. The application overview page appears.
 
@@ -54,17 +57,16 @@ The application is uploaded to the SAP Cloud Platform. The application is automa
 ![App Routes](/img/app_routes_section.png?raw=true)
 <br><br>
 
----
-:dart: **Result:**
+
+ **Result:**<br><br>
 
 The application appears in a new tab.
 
----
 <br><br>
 ![App](/img/app.png?raw=true)
 <br><br>
 
-Let us use the Cloud Foundry command line interface to deploy and launch the application.
+__Let us use the Cloud Foundry command line interface to deploy and launch the application.__
 
 1.Navigate to the project folder on your local system.
 
