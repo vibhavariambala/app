@@ -1,5 +1,10 @@
 # Exercise 04: Start and Stop an Application
-Let us use the SAP Cloud Platform cockpit
+## Objective
+In this exercise, you will get familiar with the various operations performed on an application. You have options to perform this operation using cockpit or command line interface.
+
+----
+
+__Let us use the SAP Cloud Platform cockpit__
 
 1.Navigate to **Applications**.
 <br><br>
@@ -14,7 +19,7 @@ The application stops and displays the status.
 
 3.To restart the application, in the **Actions** column, choose (start).
 
-Let us use the Cloud Foundry command line interface to start and stop the application.
+__Let us use the Cloud Foundry command line interface to start and stop the application.__
 
 1.List applications in your account using the command **cf apps**.
 <br><br>
