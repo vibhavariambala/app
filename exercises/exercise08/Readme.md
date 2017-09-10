@@ -26,3 +26,12 @@ The service instance is created and the application is bound to the application.
 <br><br>
 ![Application](/img/app.png?raw=true)
 <br><br>
+11. To view the connection details, navigate to the environment variables screen. Choose space > application name. The application overview page appears. 
+12. From the application, choose **Environment Variables**.
+<br><br>
+![Environemt Variable](/img/env_variables.png?raw=true)
+<br><br>
+13. After binding a service instance to your application, Cloud Foundry adds connection details to the VCAP_SERVICES environment variable when you restart your application.
+<br><br>
+![VCAP Services](/img/VCAP_Services.png?raw=true)
+<br><br> 
