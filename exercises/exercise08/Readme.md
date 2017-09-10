@@ -1,5 +1,5 @@
 # Exercise 08: Bind Data Source to the Application
-Let us use the cockpit option for checking resource consumption.
+Let us use the cockpit option to bind application.
 1. Navigate to the space on your trial account.
 <br><br>
 ![Trial Space](/img/dev_space.png?raw=true)
