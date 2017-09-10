@@ -24,7 +24,7 @@ Let us use the cockpit option for checking resource consumption.
 The service instance is created and the application is bound to the application.
 10. Restart the application and launch the application in the browser. The application shows the binding service as well.
 <br><br>
-![Application](/img/app.png?raw=true)
+![Application](/img/app_bound.png?raw=true)
 <br><br>
 11. To view the connection details, navigate to the environment variables screen. Choose space > application name. The application overview page appears. 
 12. From the application, choose **Environment Variables**.
