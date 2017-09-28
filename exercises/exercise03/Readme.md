@@ -7,8 +7,8 @@ In this exercise, you will get familiar with the application manifest file and i
 
 __Let us use the SAP Cloud Platform cockpit__
 
-1.Clone the content of the git repository available at the [GitHub link](https://github.infra.hana.ondemand.com/TechEd2017/hello-nodejs) using the command
-**git clone https://github.infra.hana.ondemand.com/TechEd2017/hello-nodejs**.
+1.Clone the content of the git repository available at the [GitHub link](https://github.com/SAP/cf-sample-app-nodejs) using the command
+**git clone https://github.com/SAP/cf-sample-app-nodejs**.
 
 2.Compress the contents of the folder **hello-nodejs** to zip file format.
 <br><br>
@@ -26,7 +26,7 @@ __Let us use the SAP Cloud Platform cockpit__
 
 6.Save the changes.
 
-7.Choose the default ìdevî space.
+7.Choose the default ‚Äúdev‚Äù space.
 <br><br>
 ![Space](/img/space.png?raw=true)
 <br><br>
