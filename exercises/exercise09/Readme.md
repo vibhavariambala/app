@@ -25,6 +25,7 @@ Now you have two instances of the node.js application running. The "productive" 
 <br><br>
 **Result:**<br>
 After the **cf map-route** command, the Cloud Foundry router continues sending traffic for temporary URL to the Green application. Within a few seconds, the Cloud Foundry router begins load balancing traffic for the original productive URL between Blue and Green version of the application.
+
 4.Unmap the route to Blue version after you verify that the Green version is running as expected, stop routing requests to Blue version using the **cf unmap-route** command.<br>
 <br><br>
 ![Unmap Route](/img/Unmap_route.png?raw=true)
