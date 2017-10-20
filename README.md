@@ -1,5 +1,10 @@
-# Node.js Sample App
+# Simple Cloud Foundry Node.js application
 
-```cf push```
+# Mini CodeJam (1 hour)
 
-https://docs.cloudfoundry.org/buildpacks/node/node-tips.html
+In this session, you will get familiar with:
+ - the cockpit
+ - the official CF CLI
+ - some Cloud Foundry core concepts
+
+Detailed steps description for the session: [Mini CodeJam](/exercises/basic-codeJam)
