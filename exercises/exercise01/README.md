@@ -2,8 +2,8 @@
 
 ## Estimated time
 
-:clock4: 10 minutes
+:clock4: 5 minutes
 
 ## Exercise description
 
-Follow this [step-by-step](http://go.sap.com/developer/tutorials/hcp-create-trial-account.html) tutorial to get one.
+Follow this [step-by-step](http://go.sap.com/developer/tutorials/hcp-create-trial-account.html) tutorial to a trial account.

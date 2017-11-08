@@ -4,11 +4,9 @@
 
 :clock4: 10 minutes
 
-## Objective
+## Exercise description
 
 In this exercise you'll learn how you can create free trial account on the SAP Cloud Platform, start your Cloud Foundry Environment trial, setup local development environment and explore a bit the SAP Cloud Platform cockpit which is the web based administration tool for SAP Cloud Platform.
-
-# Exercise description
 
 ## Start your Cloud Foundry Trial
 
