@@ -12,7 +12,7 @@ This tutorial shows how to:
 
 In this exercise, you will sign up for a free SAP Cloud Platform Cloud Foundry Environment trial account which you can use to deploy and run the application. [register](../exercise01)
 
-:two: **Create And Access Trial Account**
+:two: **Setup your Cloud Foundry Environment**
 
 You will get familiar with the cockpit: [create account](../exercise02)
 
