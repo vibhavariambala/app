@@ -2,6 +2,8 @@
 
 # Mini CodeJam (1 hour)
 
+## CPL628	Getting Started with Cloud Foundry on SAP Cloud Platform
+
 In this session, you will get familiar with:
  - the cockpit
  - the official CF CLI
