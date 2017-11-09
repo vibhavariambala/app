@@ -2,11 +2,23 @@
 
 ## Estimated time
 
-:clock4: 5 minutes
+:clock4: 10 minutes
 
 ## Exercise description
 
-Let us use the cockpit for checking logs.
+Before being able to see logs in Kibana, the service `application-logs` must be bound to the app.
+
+Let's use the CLI to create and bind a service instance to our application.
+
+```
+cf marketplace
+cf create-service application-logs lite myapplogs
+cf services
+cf bind-service cf-nodejs myapplogs
+cf restage cf-nodejs
+```
+
+Let's then use the cockpit for checking logs.
 1. In the **Application Overview** page, choose **Logs**.
 
 ![Logs](/img/logs_nav.png?raw=true)
