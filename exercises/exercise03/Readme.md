@@ -25,7 +25,7 @@ In this exercise, you will get familiar with the application manifest file and i
 
 4. Open the `manifest.yml` file in an editor.
 
-5. Provide a unique host value.
+5. Provide a **unique** host value. You should use your birth date or a random number or string. Routes are shared across the whole platform, so if someone else is already using it, then you won't be able to push your application. 
 
 ![Manifest](/img/manifest_host.png?raw=true)
 
