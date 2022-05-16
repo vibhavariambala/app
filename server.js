@@ -16,9 +16,9 @@ app.get( '/', function ( req, res) {
     app_index:          cf_app.get_app_index(),
     app_mem_limits:     cf_app.get_app_mem_limits(),
     app_disk_limits:    cf_app.get_app_disk_limits(),
-    services_label:     cf_svc.get_services_label(),
-    services_name:      cf_svc.get_services_name(),
-    services_plan:      cf_svc.get_services_plan()
+    service_label:      cf_svc.get_service_label(),
+    service_name:       cf_svc.get_service_name(),
+    service_plan:       cf_svc.get_service_plan()
   })
 })
 
